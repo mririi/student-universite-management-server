@@ -8,8 +8,8 @@
         <version>2.5.5</version>
         <relativePath/>
     </parent>
-    <groupId>com.</groupId>
-    <artifactId>etudiants</artifactId>
+    <groupId>com</groupId>
+    <artifactId>etudiant</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>etudiants</name>
     <description>Projet Spring Boot pour la gestion des étudiants</description>
